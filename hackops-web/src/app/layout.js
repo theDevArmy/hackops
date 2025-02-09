@@ -19,7 +19,7 @@ export const metadata = {
   // Open Graph metadata
   openGraph: {
     type: "website", // or "article" depending on content
-    title: "HackOps - The Coder's Battlefield",
+    title: "HackOps - The Coder's Battlefield By theDevArmy",
     description: "Hackops is a community-run hackathon organized by theDevArmy. It is a 36 hours of coffee-fueled competition, focused on solving real-world challenges with incubators and accelerators.",
     url: "https://www.hackops.dev/", // Replace with the actual URL
     images: [
@@ -36,7 +36,7 @@ export const metadata = {
   // Twitter metadata
   twitter: {
     card: "summary_large_image", // For large image preview
-    title: "HackOps - The Coder's Battlefield",
+    title: "HackOps - The Coder's Battlefield By theDevArmy",
     description: "Hackops is a community-run hackathon organized by theDevArmy. It is a 36 hours of coffee-fueled competition, focused on solving real-world challenges with incubators and accelerators.",
     image: "https://res.cloudinary.com/dscq2qcch/image/upload/v1739086327/Pitch_ka_final_wala_deck_nuqsg1.png", // Replace with the image URL
     creator: "@theDevArmy", // Replace with Twitter handle
